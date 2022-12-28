@@ -1,8 +1,11 @@
+import { Box } from "@chakra-ui/react";
+import AllRoutes from "./routes/AllRoutes";
+
 function App() {
   return (
-    <div>
-      Hello world!
-    </div>
+    <Box>
+       <AllRoutes/>
+    </Box>
   );
 }
 
