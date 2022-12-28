@@ -1,0 +1,9 @@
+.content{
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+
+    background-color: #ddddf7;
+}
+.content::-webkit-scrollbar{
+    display: none;
+}
